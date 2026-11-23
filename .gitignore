@@ -1,5 +1,15 @@
+# окружение и IDE
 .venv/
 .idea/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# вспомогательные скрипты сборки ноутбуков — в git не нужны
+scripts/
+
+# материалы ЛР2 (лежат в ветке lr2-clean)
+lr2.ipynb
+ML_LR2.ipynb
+lr2_script.py
+theory.md
